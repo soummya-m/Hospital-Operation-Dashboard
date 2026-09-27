@@ -8,6 +8,6 @@ Revenue Performance Breakdown: Successfully modeled and tracked over $619K in Me
 Operational Monitoring: Measured  average customer processing time 43.82 min.
 Segmented hospital data points by individual Doctor Types and Patient Financial Classes (Private, Corporate, Insurance) to show resource allocation opportunities.
 ## Tools Used
-*Power BI Service & Desktop - DAX calculations, modeling, and layout design.
-*Power Query - Data transformation and cleanup workflows.
-*Kaggle - Dataset origin.
+* Power BI Service & Desktop - DAX calculations, modeling, and layout design.
+* Power Query - Data transformation and cleanup workflows.
+* Kaggle - Dataset origin.
